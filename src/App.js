@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+// h1 - rendering
+// h1의 컨텐츠는 Hello World
+
 function App() {
   return (
     <div className="App">
-      <h1>Bye world</h1>
-      <p>저녁먹을 시간이다</p>
+      <h1>Hello World</h1>
     </div>
   );
 }
